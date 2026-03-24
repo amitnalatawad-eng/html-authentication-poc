@@ -61,20 +61,20 @@ screenshots/
 
 ## 📸 Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
+### Login ss
+![Login](Screenshot/login.png)
 
 ### Register Page
-![Register](screenshots/register.png)
+![Register](Screenshot/register-page.png)
 
 ### Forgot Password Page
-![Forgot Password](screenshots/forgot-password.png)
+![Forgot Password](Screenshot/forgot-password.png)
 
 ### Reset Password Page
-![Reset Password](screenshots/reset-password.png)
+![Reset Password](Screenshot/reset-password.png)
 
 ### Dashboard Page
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/dashboard-page.png)
 
 ---
 
